@@ -8,9 +8,10 @@ This theme is still in development.  Please report any problems by opening a new
 
 # Sample Screenshot
 
-![dark_menus](screenshots/SUMO_1.png)
-![dark_menus](screenshots/SUMO_2.png)
-![dark_menus](screenshots/SUMO_3.png)
+![1](screenshots/Bugzilla.png)
+
+![1](screenshots/Bugzilla2.png)
+
 
 # Usinge Bugzilla-Dark
 
