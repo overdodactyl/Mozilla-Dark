@@ -19,4 +19,4 @@ Copy and paste the contents of `SUMO_Dark.css` into an extension such as [Stylus
 
 Set the style to Apply on `URLs on the domain` `support.mozilla.org`.
 
-Once the theme is more finalized, I will host it on https://userstyles.org/ and most likely include it in ShadowFox[https://github.com/overdodactyl/ShadowFox].
+Once the theme is more finalized, I will host it on https://userstyles.org/ and most likely include it in [ShadowFox](https://github.com/overdodactyl/ShadowFox).
