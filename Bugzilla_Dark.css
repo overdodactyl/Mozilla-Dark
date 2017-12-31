@@ -1,13 +1,12 @@
 /*! Copyright (c) 2017 overdodactyl
     Available for use under the MIT License:
     https://opensource.org/licenses/MIT
-    https://github.com/overdodactyl/Bugzilla-Dark 
+    https://github.com/overdodactyl/Bugzilla-Dark
 
     Desing inspiration and color scheme (including background pattern) come from
     GitHub-Dark: https://github.com/StylishThemes/GitHub-Dark
     License:    https://creativecommons.org/licenses/by-sa/4.0/
 */
-
 * {
   border-color: #444!important;
   text-shadow: none!important;
@@ -58,9 +57,17 @@ textarea {
   color: silver!important
 }
 #attachments .attach-patch .attach-desc-td,
+#product,
 .module-content,
-.mozreview-requests {
+.mozreview-requests,
+select {
   background: #181818!important;
+  color: silver!important
+}
+.tabs td {
+  background: 0 0!important
+}
+.tabs a {
   color: silver!important
 }
 #summary_field.search_field_row,
@@ -119,4 +126,47 @@ button.minor {
   background: #181818!important;
   color: silver!important;
   border: 1px solid #444!important
+}
+.yui3-skin-sam .yui3-datatable-even .yui3-datatable-cell,
+.yui3-skin-sam .yui3-datatable-message-content {
+  background-color: #181818!important
+}
+.yui3-skin-sam .yui3-datatable-odd .yui3-datatable-cell {
+  background-color: #222!important
+}
+#yui_3_17_2_1_1514733655300_178 .yui3-datatable-columns {
+  background-color: #181818!important
+}
+.yui3-skin-sam .yui3-datatable-header {
+  background: #202020!important;
+  color: silver!important
+}
+.yui3-skin-sam .yui3-datatable-sort-indicator {
+  filter: invert(65%)!important
+}
+.bz_comment_text {
+  background: #333!important
+}
+.query_description,
+.query_heading {
+  color: #d7d7db!important
+}
+th.sorted_0,
+th.sorttable_sorted,
+th.sorttable_sorted_reverse {
+  background: #222!important;
+  border-left: 1px solid #444!important;
+  border-top: 1px solid #444!important;
+  border-right: 1px solid #444!important
+}
+.bz_sort_order_primary {
+  color: #0095dd!important
+}
+th.sorted_1,
+th.sorted_2,
+th.sorted_3,
+th.sorted_4,
+th.sorted_5,
+th.sorted_6 {
+  background: 0 0!important
 }
