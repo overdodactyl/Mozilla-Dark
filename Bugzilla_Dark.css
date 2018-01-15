@@ -85,7 +85,6 @@ select {
 #header-login .mini-popup {
   background-color: #111!important
 }
-,
 #header-login .mini-popup input,
 .text_input,
 .yui-ac-input,
@@ -105,6 +104,9 @@ textarea {
 .yui3-skin-sam .yui3-datatable-table {
   background: #202020!important;
   color: silver!important
+}
+#header-search-dropdown header {
+    background: #202020!important;
 }
 .bz_row_odd,
 .throw_error {
