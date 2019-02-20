@@ -172,3 +172,21 @@ th.sorted_5,
 th.sorted_6 {
   background: 0 0!important
 }
+.phabricator-revisions {
+  background: #181818!important;
+}
+#comment-tabs li[aria-selected="true"] {
+  background: #111!important;
+}
+#prefnav, #prefcontent {
+  background: #181818!important;
+}
+#prefnav li.selected {
+  background: #111!important;   
+}
+#prefnav li {
+  background: #181818!important;
+}
+#prefnav li a {
+  color: silver!important;
+}
